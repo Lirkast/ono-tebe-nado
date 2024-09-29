@@ -51,11 +51,13 @@
   margin-top: 7px;
   line-height: 23px;
   font-size: 18px;
+  font-style: normal;
 }
 
 .phone_number {
   border-bottom: 1px solid #000000;
   text-decoration: none;
+  font-size: 17px;
 }
 
 .email {
@@ -101,8 +103,8 @@
   text-transform: uppercase;
   color: white;
   font-size: 22px;
-  word-spacing: 19px;
-  margin-left: 78px;
+  word-spacing: 18px;
+  margin-left: 80px;
 }
 
 .bet-button {
@@ -264,9 +266,9 @@
 
 .about__text {
   font-size: 20px;
-  padding-bottom: 24px;
-  padding-left: 26px;
-  padding-right: 27px;
+  padding-bottom: 23px;
+  padding-left: 27px;
+  padding-right: 26px;
 }
 
 .footer {
