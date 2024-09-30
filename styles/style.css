@@ -16,7 +16,7 @@
   gap: 15px;
   list-style: circle;
   text-transform: lowercase;
-  padding: 44px 20px 38px 28px;
+  padding: 43px 24px 38px 26px;
   font-size: 18px;
 }
 
@@ -316,7 +316,7 @@
 }
 
 .footer__menu {
-  padding-left: 35px;
+  padding-left: 38px;
   font-size: 18px;
   text-transform: lowercase;
 }
