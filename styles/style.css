@@ -262,7 +262,7 @@
 
 .about__text {
   font-size: 20px;
-  padding-bottom: 35px;
+  padding-bottom: 30px;
   padding-right: 20px;
   padding-left: 28px;
 }
@@ -301,10 +301,12 @@
   text-decoration: none;
 }
 
+
 .footer__social-icon {
   width: 240px;
   height: 48px;
   gap: 48px;
+  padding-right: 196px;
 }
 
 .contacts_footer {
