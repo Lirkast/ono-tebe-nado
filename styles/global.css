@@ -8,6 +8,11 @@ body {
   min-width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
+  display: grid;
+  min-height: 3028px;
+  grid-template-rows: auto 1fr auto;
+  justify-content: center;
+  align-content: center;
 }
 
 h1,
