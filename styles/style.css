@@ -274,7 +274,7 @@
   margin-right: 50px;
   margin-bottom: 88px;
   margin-left: 50px;
-  justify-content: space-between;
+  gap: 185px;
 }
 
 .footer__menu-list {
@@ -316,11 +316,7 @@
 }
 
 .footer__menu {
-  padding-left: 133px;
+  padding-left: 35px;
   font-size: 18px;
   text-transform: lowercase;
-}
-
-.footer__social {
-  padding-right: 196px;
 }
