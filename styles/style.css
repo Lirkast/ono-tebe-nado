@@ -14,7 +14,7 @@
   gap: 15px;
   list-style: circle;
   text-transform: lowercase;
-  padding: 43px 24px 38px 26px;
+  padding: 43px 14px 38px 26px;
   font-size: 18px;
 }
 
@@ -40,7 +40,7 @@
   line-height: 24px;
   font-size: 18px;
   font-style: normal;
-  padding-left: 196px;
+  padding-left: 192px;
 }
 
 .contact-link {
@@ -256,7 +256,7 @@
 
 .footer {
   display: flex;
-  margin: 160px 50px 60px 50px;
+  margin: 160px 50px 50px 50px;
   gap: 185px;
 }
 
