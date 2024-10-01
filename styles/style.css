@@ -222,7 +222,7 @@
   width: 1100px;
   display: grid;
   grid-template-columns: 286px auto;
-  padding-top: 22px;
+  padding-top: 23px;
   padding-left: 71px;
 }
 
@@ -242,7 +242,7 @@
   text-transform: uppercase;
   font-size: 40px;
   padding-top: 100px;
-  padding-bottom: 103px;
+  padding-bottom: 100px;
   padding-left: 26px;
 }
 
@@ -255,9 +255,9 @@
 
 .footer {
   display: flex;
-  margin: 155px 40px 85px 50px;
+  margin: 155px 40px 80px 50px;
   gap: 185px;
-  line-height: 25px;
+  line-height: 26px;
 }
 
 .footer__menu-list {
@@ -288,7 +288,7 @@
 }
 
 .footer__menu {
-  padding-left: 40px;
+  padding-left: 38px;
   font-size: 18px;
   text-transform: lowercase;
 }
