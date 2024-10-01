@@ -32,14 +32,14 @@
           >
       </a>
       <address class="contacts_header">
-        <a href="tel:+99995555555" class="phone_number">+9-999-555-5555</a
+        <a href="tel:+99995555555" class="contact-link">+9-999-555-5555</a
         ><br>
-        <a href="mailto:info@sobaka.ge" class="email">info@sobaka.ge</a><br>
+        <a href="mailto:info@sobaka.ge" class="contact-link">info@sobaka.ge</a><br>
         <span class="adress">наб. Принсенграхт 263-<br>265, Амстердам</span>
         </address>
     </header>
     <main class="main" id="Главная">
-      <section class="cover cover_image">
+      <section class="cover">
         <div class="overlay"></div>
         <h1 class="cover__title">
           <span class="aligned-text">О<span class="letter-spacing-extended">НО</span></span>
@@ -56,8 +56,8 @@
       <section class="lots" id="Лоты">
         <h2 class="lots__heading">Лоты</h2>
         <ul class="lots__cards-list">
-          <li class="lots__card-list-item">
-            <a href="#0" class="card_link card-link-none">
+            <li class="lots__card-list-item">
+            <a href="#0" class="card-link">
               <article class="card card_type_film">
                 <div class="overlay"></div>
                 <h3 class="card__title">
@@ -70,6 +70,8 @@
                 </p>
               </article>
             </a>
+            </li>
+            <li class="lots__card-list-item">
             <a href="#0" class="card_link card-link-none">
               <article class="card card_type_book">
                 <div class="overlay"></div>
@@ -86,6 +88,8 @@
                 </p>
               </article>
             </a>
+            </li>
+            <li class="lots__card-list-item">
             <a href="#0" class="card_link card-link-none">
               <article class="card card_type_picture">
                 <div class="overlay"></div>
@@ -100,14 +104,14 @@
                 </p>
               </article>
             </a>
-          </li>
+            </li>
         </ul>
         <a href="#0" class="lots__look-more-link">Посмотреть больше</a>
       </section>
       <section class="about">
         <div class="about__logo"></div>
         <div>
-          <h3 class="about__title" id="Аукцион">Об аукционе</h3>
+          <h2 class="about__title" id="Аукцион">Об аукционе</h2>
           <p class="about__text">
             Здесь вы не встретите очередное пафосное собрание невероятно
             дорогого антиквариата. Наши лоты вообще не должны были попасть 
@@ -128,12 +132,12 @@
     </main>
     <footer class="footer">
       <nav class="contacts_footer">
-        <a href="tel:+99995555555" class="phone_number">+9-999-555-5555</a
+        <a href="tel:+99995555555" class="contact-link">+9-999-555-5555</a
         ><br>
-        <a href="mailto:info@sobaka.ge" class="email">info@sobaka.ge</a><br>
+        <a href="mailto:info@sobaka.ge" class="contact-link">info@sobaka.ge</a><br>
         <span>наб. Принсенграхт 263-<br>265, Амстердам</span>
       </nav>
-      <div class="footer__menu">
+      <nav class="footer__menu">
         <ul class="footer__menu-list">
           <li class="footer__menu-list-item">
             <a class="footer__menu-link_active" href="#Главная">
@@ -151,14 +155,13 @@
             </a>
           </li>
         </ul>
-      </div>
-      <div class="footer__social">
+      </nav>
         <ul class="footer__social-list">
           <li class="footer__social-list-item">
             <a class="footer__social-link" href="#0">
               <img
                 class="footer__social-icon"
-                src="/images/yt.svg"
+                src="./images/yt.svg"
                 alt="Ютуб"
               >
             </a>
@@ -167,8 +170,8 @@
             <a class="footer__social-link" href="#0">
               <img
                 class="footer__social-icon"
-                src="/images/vk.svg"
-                alt="Вкотанкте"
+                src="./images/vk.svg"
+                alt="Вконтакте"
                 >
             </a>
           </li>
@@ -176,13 +179,12 @@
             <a class="footer__social-link" href="#0">
               <img
                 class="footer__social-icon"
-                src="/images/pinterest.svg"
+                src="./images/pinterest.svg"
                 alt="Пинтерест"
                 >
             </a>
           </li>
         </ul>
-      </div>
     </footer>
   </body>
 </html>
