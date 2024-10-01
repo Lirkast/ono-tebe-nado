@@ -255,9 +255,8 @@
 
 .footer {
   display: flex;
-  margin: 158px 40px 80px 50px;
+  margin: 156px 40px 80px 50px;
   gap: 185px;
-  line-height: 25px;
 }
 
 .footer__menu-list {
@@ -285,6 +284,7 @@
 
 .contacts_footer {
   font-size: 18px;
+  line-height: 26px;
 }
 
 .footer__menu {
