@@ -255,9 +255,9 @@
 
 .footer {
   display: flex;
-  margin: 156px 40px 80px 50px;
+  margin: 158px 40px 80px 50px;
   gap: 185px;
-  line-height: 26px;
+  line-height: 25px;
 }
 
 .footer__menu-list {
