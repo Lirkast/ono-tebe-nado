@@ -9,9 +9,10 @@ body {
   margin: 0 auto;
   font-family: Raleway, sans-serif;
   display: grid;
-  grid-template-rows: auto 1fr auto;
+  grid-template-rows: auto;
   justify-content: center;
   align-content: center;
+  overflow-x: hidden;
 }
 
 h1,
@@ -36,3 +37,4 @@ a {
 img {
   width: 100%;
 }
+
