@@ -248,16 +248,16 @@
 
 .about__text {
   font-size: 20px;
-  padding-bottom: 25px;
+  padding-bottom: 30px;
   padding-right: 20px;
   padding-left: 28px;
 }
 
 .footer {
   display: flex;
-  margin: 160px 40px 85px 50px;
+  margin: 148px 40px 85px 50px;
   gap: 185px;
-  line-height: 22px;
+  line-height: 25px;
 }
 
 .footer__menu-list {
@@ -284,7 +284,6 @@
 }
 
 .contacts_footer {
-  line-height: 24px;
   font-size: 18px;
 }
 
